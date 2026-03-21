@@ -153,6 +153,6 @@ test('Link action learning', async ({ page }) => {
 
 });
 
-test('Link action learning', async ({ page }) => {
+test('Link actions learning', async ({ page }) => {
 
 });
